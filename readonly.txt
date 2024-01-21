@@ -1,0 +1,15 @@
+Jenkins 
+IP address-3.110.45.141:8080
+Username-Mangesh
+Password-Mangu@235
+
+Grafana
+IP address-3.110.45.141:3000
+Username-admin
+Password-Mangu@235
+
+Prometheus
+IP address-3.110.45.141:9090
+
+node_exporter
+IP address-3.110.45.141:9100
