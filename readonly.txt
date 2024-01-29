@@ -1,15 +1,15 @@
 Jenkins 
-IP address-3.110.45.141:8080
+IP address-13.233.147.206:8080
 Username-Mangesh
 Password-Mangu@235
 
 Grafana
-IP address-3.110.45.141:3000
+IP address-13.233.147.206:3000
 Username-admin
 Password-Mangu@235
 
 Prometheus
-IP address-3.110.45.141:9090
+IP address-13.233.147.206:9090
 
 node_exporter
-IP address-3.110.45.141:9100
+IP address-13.233.147.206:9100
